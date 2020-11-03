@@ -1,8 +1,7 @@
 # PHP Scraper using cURL
 
-![screenshot](./img/app_screenshot_scraper.png)
+![screenshot](./screenshot.png)
 
-*Check the feature branch for up to date commits*
 
 ## Objectives
 
@@ -62,7 +61,7 @@ With is basic and simple structure you too can have a scraper to help you extrac
 
 ## Getting Started
 
-1. Clone directory $ git clone https://github.com/rootDEV2990/ruby_scraper
+1. Clone directory $ git clone https://github.com/rootDEV2990/php_scraper
 2. Add url for cURL to connect to in curl.php
 3. Open terminal and cd into project directory folder. 
 4. Call curl file from project folder in terminal and execute with php 
