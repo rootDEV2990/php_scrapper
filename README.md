@@ -2,6 +2,8 @@
 
 ![screenshot](./img/app_screenshot_scraper.png)
 
+*Check the feature branch for up to date commits*
+
 ## Objectives
 
 1. Target URLS and get DATA.
